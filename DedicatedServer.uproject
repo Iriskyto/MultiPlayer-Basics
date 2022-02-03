@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{B06D3B4E-45D8-BC45-6C8C-F79E3F2A2A5F}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "DedicatedServer",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

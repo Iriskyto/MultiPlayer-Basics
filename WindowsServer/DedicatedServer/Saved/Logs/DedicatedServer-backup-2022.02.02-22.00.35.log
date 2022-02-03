@@ -1,0 +1,874 @@
+﻿Log file open, 02/02/22 19:43:01
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogPakFile: Display: Found Pak file ../../../DedicatedServer/Content/Paks/DedicatedServer-WindowsServer.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../DedicatedServer/Content/Paks/DedicatedServer-WindowsServer.pak.
+LogPakFile: PakFile PrimaryIndexSize=24390
+LogPakFile: PakFile PathHashIndexSize=45691
+LogPakFile: PakFile FullDirectoryIndexSize=58401
+LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile '../../../DedicatedServer/Content/Paks/DedicatedServer-WindowsServer.pak' (chunk index -1, root '../../../') mounted
+LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:../../../ File:../../../DedicatedServer/Content/Paks/DedicatedServer-WindowsServer.pak)
+LogPakFile: OnPakFileMounted2Time == 0.051860
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 9 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 6.535108
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.27-CL-0
+LogInit: Engine Version: 4.27.1-0+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-0+++UE4+Release-4.27
+LogInit: Net CL: 0
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jan 30 2022 19:11:23
+LogInit: Compiled with Visual C++: 19.29.30137.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  -log
+LogInit: Base Directory: D:/Projects_Of_Mine/DedicatedServer/WindowsServer/DedicatedServer/Binaries/Win64/
+LogInit: Allocator: binned2
+LogInit: Installed Engine Build: 0
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 2097152 objects, including 1 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../DedicatedServer/Saved/Config/WindowsServer/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogStreaming: Display: Async Loading initialized: Event Driven Loader: true, Async Loading Thread: false, Async Post Load: false
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2022.02.02-16.43.04:528][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2022.02.02-16.43.04:528][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.02.02-16.43.04:528][  0]LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2022.02.02-16.43.04:581][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [../../../DedicatedServer/Saved/Config/WindowsServer/Engine.ini]
+[2022.02.02-16.43.04:581][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.02.02-16.43.04:584][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [../../../DedicatedServer/Saved/Config/WindowsServer/Engine.ini]
+[2022.02.02-16.43.04:585][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../DedicatedServer/Saved/Config/WindowsServer/Engine.ini]
+[2022.02.02-16.43.04:586][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.02.02-16.43.04:587][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.02.02-16.43.04:588][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.02.02-16.43.04:588][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.02.02-16.43.04:589][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.02.02-16.43.04:590][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.02.02-16.43.04:591][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.02.02-16.43.04:595][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.02.02-16.43.04:596][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.02.02-16.43.04:597][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.02.02-16.43.04:598][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.02.02-16.43.04:599][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.02.02-16.43.04:600][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.02.02-16.43.04:601][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.02.02-16.43.04:601][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [../../../DedicatedServer/Saved/Config/WindowsServer/Engine.ini]
+[2022.02.02-16.43.04:602][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.02.02-16.43.04:603][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.02.02-16.43.04:604][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.02.02-16.43.04:611][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.02.02-16.43.04:612][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.02.02-16.43.04:613][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.02.02-16.43.04:614][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.02.02-16.43.04:614][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.02.02-16.43.04:615][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.02.02-16.43.04:618][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.02.02-16.43.04:619][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.02.02-16.43.04:620][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.02.02-16.43.04:621][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.02.02-16.43.04:622][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.02.02-16.43.04:622][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [../../../DedicatedServer/Saved/Config/WindowsServer/Engine.ini]
+[2022.02.02-16.43.04:727][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../DedicatedServer/Saved/Config/WindowsServer/Scalability.ini]
+[2022.02.02-16.43.04:728][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.02.02-16.43.04:731][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.02.02-16.43.04:732][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../DedicatedServer/Saved/Config/WindowsServer/Scalability.ini]
+[2022.02.02-16.43.04:733][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.02.02-16.43.04:734][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../DedicatedServer/Saved/Config/WindowsServer/Scalability.ini]
+[2022.02.02-16.43.04:734][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.02.02-16.43.04:735][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.02.02-16.43.04:736][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.02.02-16.43.04:737][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.02.02-16.43.04:738][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.02.02-16.43.04:738][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.02.02-16.43.04:742][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.02.02-16.43.04:743][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.02.02-16.43.04:744][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.02.02-16.43.04:745][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.02.02-16.43.04:746][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.02.02-16.43.04:747][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.02.02-16.43.04:748][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.02.02-16.43.04:748][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.02.02-16.43.04:749][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.02.02-16.43.04:750][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.02.02-16.43.04:753][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.02.02-16.43.04:754][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.02.02-16.43.04:755][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../DedicatedServer/Saved/Config/WindowsServer/Scalability.ini]
+[2022.02.02-16.43.04:756][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.02.02-16.43.04:757][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.02.02-16.43.04:758][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.02.02-16.43.04:759][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.02.02-16.43.04:760][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.02.02-16.43.04:760][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.02.02-16.43.04:761][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.02.02-16.43.04:762][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.02.02-16.43.04:765][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.02.02-16.43.04:765][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.02.02-16.43.04:766][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.02.02-16.43.04:767][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.02.02-16.43.04:767][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.02.02-16.43.04:768][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.02.02-16.43.04:768][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.02.02-16.43.04:769][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.02.02-16.43.04:769][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.02.02-16.43.04:770][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.02.02-16.43.04:770][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.02.02-16.43.04:771][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.02.02-16.43.04:771][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.02.02-16.43.04:774][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.02.02-16.43.04:776][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.02.02-16.43.04:776][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.02.02-16.43.04:776][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.02.02-16.43.04:777][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.02.02-16.43.04:777][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.02.02-16.43.04:778][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.02.02-16.43.04:778][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.02.02-16.43.04:778][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.02.02-16.43.04:779][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../DedicatedServer/Saved/Config/WindowsServer/Scalability.ini]
+[2022.02.02-16.43.04:779][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.02.02-16.43.04:779][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.02.02-16.43.04:780][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.02.02-16.43.04:780][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.02.02-16.43.04:780][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.02.02-16.43.04:780][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.02.02-16.43.04:781][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.02.02-16.43.04:781][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.02.02-16.43.04:781][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.02.02-16.43.04:782][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../DedicatedServer/Saved/Config/WindowsServer/Scalability.ini]
+[2022.02.02-16.43.04:782][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.02.02-16.43.04:782][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.02.02-16.43.04:782][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.02.02-16.43.04:783][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.02.02-16.43.04:783][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.02.02-16.43.04:783][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.02.02-16.43.04:784][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.02.02-16.43.04:787][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.02.02-16.43.04:788][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.02.02-16.43.04:788][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.02.02-16.43.04:788][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.02.02-16.43.04:788][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.02.02-16.43.04:789][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.02.02-16.43.04:789][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.02.02-16.43.04:789][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.02.02-16.43.04:789][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.02.02-16.43.04:790][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.02.02-16.43.04:790][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.02.02-16.43.04:790][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.02.02-16.43.04:790][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.02.02-16.43.04:792][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.02.02-16.43.04:792][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.02.02-16.43.04:793][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.02.02-16.43.04:793][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.02.02-16.43.04:793][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.02.02-16.43.04:793][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.02.02-16.43.04:794][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.02.02-16.43.04:794][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.02.02-16.43.04:794][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2022.02.02-16.43.04:841][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../DedicatedServer/Saved/Config/WindowsServer/Scalability.ini]
+[2022.02.02-16.43.04:842][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.02.02-16.43.04:844][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.02.02-16.43.04:845][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [../../../DedicatedServer/Saved/Config/WindowsServer/Scalability.ini]
+[2022.02.02-16.43.04:846][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.02.02-16.43.04:847][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.02.02-16.43.04:848][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.02.02-16.43.04:873][  0]LogInit: Selected Device Profile: [WindowsServer]
+[2022.02.02-16.43.04:873][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsServer]
+[2022.02.02-16.43.04:874][  0]LogHAL: Display: Platform has ~ 32 GB [34163515392 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.02.02-16.43.04:875][  0]LogInit: Going up to parent DeviceProfile [Windows]
+[2022.02.02-16.43.04:875][  0]LogInit: Going up to parent DeviceProfile []
+[2022.02.02-16.43.04:930][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../DedicatedServer/Saved/Config/WindowsServer/Scalability.ini]
+[2022.02.02-16.43.04:931][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.02.02-16.43.04:933][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.02.02-16.43.04:934][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../DedicatedServer/Saved/Config/WindowsServer/Scalability.ini]
+[2022.02.02-16.43.04:935][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.02.02-16.43.04:936][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../DedicatedServer/Saved/Config/WindowsServer/Scalability.ini]
+[2022.02.02-16.43.04:937][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.02.02-16.43.04:938][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.02.02-16.43.04:939][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.02.02-16.43.04:939][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.02.02-16.43.04:940][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.02.02-16.43.04:941][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.02.02-16.43.04:945][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.02.02-16.43.04:946][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.02.02-16.43.04:947][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.02.02-16.43.04:948][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.02.02-16.43.04:949][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.02.02-16.43.04:949][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.02.02-16.43.04:950][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.02.02-16.43.04:951][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.02.02-16.43.04:952][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.02.02-16.43.04:953][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.02.02-16.43.04:954][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.02.02-16.43.04:957][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.02.02-16.43.04:962][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../DedicatedServer/Saved/Config/WindowsServer/Scalability.ini]
+[2022.02.02-16.43.04:963][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.02.02-16.43.04:963][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.02.02-16.43.04:964][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.02.02-16.43.04:965][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.02.02-16.43.04:968][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.02.02-16.43.04:969][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.02.02-16.43.04:970][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.02.02-16.43.04:970][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.02.02-16.43.04:971][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.02.02-16.43.04:972][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.02.02-16.43.04:973][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.02.02-16.43.04:973][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.02.02-16.43.04:974][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.02.02-16.43.04:975][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.02.02-16.43.04:975][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.02.02-16.43.04:976][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.02.02-16.43.04:976][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.02.02-16.43.04:977][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.02.02-16.43.04:980][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.02.02-16.43.04:980][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.02.02-16.43.04:981][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.02.02-16.43.04:981][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.02.02-16.43.04:982][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.02.02-16.43.04:982][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.02.02-16.43.04:983][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.02.02-16.43.04:983][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.02.02-16.43.04:984][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.02.02-16.43.04:984][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.02.02-16.43.04:984][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.02.02-16.43.04:985][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.02.02-16.43.04:985][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../DedicatedServer/Saved/Config/WindowsServer/Scalability.ini]
+[2022.02.02-16.43.04:985][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.02.02-16.43.04:986][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.02.02-16.43.04:986][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.02.02-16.43.04:986][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.02.02-16.43.04:987][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.02.02-16.43.04:987][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.02.02-16.43.04:987][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.02.02-16.43.04:989][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.02.02-16.43.04:990][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.02.02-16.43.04:990][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../DedicatedServer/Saved/Config/WindowsServer/Scalability.ini]
+[2022.02.02-16.43.04:990][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.02.02-16.43.04:991][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.02.02-16.43.04:991][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.02.02-16.43.04:991][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.02.02-16.43.04:991][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.02.02-16.43.04:992][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.02.02-16.43.04:992][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.02.02-16.43.04:992][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.02.02-16.43.04:993][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.02.02-16.43.04:993][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.02.02-16.43.04:993][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.02.02-16.43.04:993][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.02.02-16.43.04:994][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.02.02-16.43.04:994][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.02.02-16.43.04:994][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.02.02-16.43.04:994][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.02.02-16.43.04:995][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.02.02-16.43.04:995][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.02.02-16.43.04:995][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.02.02-16.43.04:995][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.02.02-16.43.04:996][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.02.02-16.43.04:996][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.02.02-16.43.04:996][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.02.02-16.43.04:996][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.02.02-16.43.04:997][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.02.02-16.43.04:997][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.02.02-16.43.04:997][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.02.02-16.43.04:997][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.02.02-16.43.04:998][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2022.02.02-16.43.05:000][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../DedicatedServer/Saved/Config/WindowsServer/Scalability.ini]
+[2022.02.02-16.43.05:000][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.02.02-16.43.05:000][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.02.02-16.43.05:000][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [../../../DedicatedServer/Saved/Config/WindowsServer/Scalability.ini]
+[2022.02.02-16.43.05:000][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.02.02-16.43.05:001][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.02.02-16.43.05:001][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.02.02-16.43.05:001][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.02.02-16.43.05:001][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.02.02-16.43.05:002][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.02.02-16.43.05:002][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.02.02-16.43.05:002][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [../../../DedicatedServer/Saved/Config/WindowsServer/Engine.ini]
+[2022.02.02-16.43.05:002][  0]LogInit: Computer: DESKTOP-P6G4D2C
+[2022.02.02-16.43.05:002][  0]LogInit: User: User
+[2022.02.02-16.43.05:003][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.02.02-16.43.05:003][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.02.02-16.43.05:003][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2022.02.02-16.43.05:003][  0]LogMemory: Platform Memory Stats for WindowsServer
+[2022.02.02-16.43.05:004][  0]LogMemory: Process Physical Memory: 73.90 MB used, 73.91 MB peak
+[2022.02.02-16.43.05:004][  0]LogMemory: Process Virtual Memory: 75.55 MB used, 75.55 MB peak
+[2022.02.02-16.43.05:004][  0]LogMemory: Physical Memory: 7611.19 MB used,  24969.68 MB free, 32580.87 MB total
+[2022.02.02-16.43.05:004][  0]LogMemory: Virtual Memory: 134189752.00 MB used,  27975.48 MB free, 134217728.00 MB total
+[2022.02.02-16.43.05:008][  0]LogWindows: WindowsPlatformFeatures disabled or dedicated server build
+[2022.02.02-16.43.06:794][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.02.02-16.43.06:861][  0]LogInit: Using OS detected language (ru-RU).
+[2022.02.02-16.43.06:861][  0]LogInit: Using OS detected locale (ru-RU).
+[2022.02.02-16.43.06:864][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the language.
+[2022.02.02-16.43.06:865][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the locale.
+[2022.02.02-16.43.08:046][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.02.02-16.43.08:046][  0]LogODSC: ODSC Thread active.
+[2022.02.02-16.43.08:962][  0]LogInit: Using OS detected language (ru-RU).
+[2022.02.02-16.43.08:962][  0]LogInit: Using OS detected locale (ru-RU).
+[2022.02.02-16.43.08:963][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the language.
+[2022.02.02-16.43.08:963][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the locale.
+[2022.02.02-16.43.09:052][  0]LogTextLocalizationManager: Compacting localization data took   0.55ms
+[2022.02.02-16.43.09:052][  0]LogAssetRegistry: FAssetRegistry took 0.0880 seconds to start up
+[2022.02.02-16.43.11:099][  0]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2022.02.02-16.43.11:186][  0]LogPackageLocalizationCache: Processed 26 localized package path(s) for 1 prioritized culture(s) in 0.054023 seconds
+[2022.02.02-16.43.11:248][  0]LogPakFile: New pak file ../../../DedicatedServer/Content/Paks/DedicatedServer-WindowsServer.pak added to pak precacher.
+[2022.02.02-16.43.11:344][  0]LogInit: Selected Device Profile: [WindowsServer]
+[2022.02.02-16.43.11:362][  0]LogInit: Active device profile: [000002BBFE822B00][000002BBFAF5DB70 49] WindowsServer
+[2022.02.02-16.43.11:362][  0]LogInit: Profiles: [000002BBFE822C80][000002BBFD076DC0 49] Windows, [000002BBFE822B00][000002BBFAF5DB70 49] WindowsServer, 
+[2022.02.02-16.43.11:523][  0]LogSerialization: Display: AllowBulkDataInIoStore: 'true'
+[2022.02.02-16.43.11:844][  0]LogNetVersion: DedicatedServer 1.0.0, NetCL: 0, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1551992059)
+[2022.02.02-16.43.13:223][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.02.02-16.43.13:224][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.02.02-16.43.13:240][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.02.02-16.43.14:424][  0]LogUObjectArray: 15882 objects as part of root set at end of initial load.
+[2022.02.02-16.43.14:424][  0]LogUObjectAllocator: 3262488 out of 0 bytes used by permanent object pool.
+[2022.02.02-16.43.14:424][  0]LogUObjectArray: CloseDisregardForGC: 15882/0 objects in disregard for GC pool
+[2022.02.02-16.43.14:856][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: DA58C5D8458B51E5B8F642A1B9F5D27C | Instance: 398814EB404213D6935922AAC5A505C2 (DESKTOP-P6G4D2C-2708).
+[2022.02.02-16.43.15:355][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.02.02-16.43.15:356][  0]LogOcInput: OculusInput pre-init called
+[2022.02.02-16.43.15:742][  0]LogEngine: Initializing Engine...
+[2022.02.02-16.43.15:787][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2022.02.02-16.43.15:943][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.02.02-16.43.15:944][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.02.02-16.43.16:026][  0]LogInit: Texture streaming: Disabled
+[2022.02.02-16.43.17:015][  0]LogInit: Display: Game Engine Initialized.
+[2022.02.02-16.43.17:045][  0]LogInit: Display: Starting Game.
+[2022.02.02-16.43.17:070][  0]LogNet: Browse: /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap?Name=Player
+[2022.02.02-16.43.17:071][  0]LogLoad: LoadMap: /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap?Name=Player
+[2022.02.02-16.43.17:072][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2022.02.02-16.43.17:188][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.02.02-16.43.17:642][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.02.02-16.43.18:011][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.02.02-16.43.18:091][  0]LogLoad: Game class is 'DedicatedServerGameMode'
+[2022.02.02-16.43.18:117][  0]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2022.02.02-16.43.18:118][  0]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2022.02.02-16.43.18:147][  0]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2022.02.02-16.43.18:147][  0]LogNet: Created socket for bind address: 0.0.0.0 on port 7777
+[2022.02.02-16.43.18:186][  0]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.02.02-16.43.18:187][  0]LogNet: GameNetDriver IpNetDriver_2147482567 IpNetDriver listening on port 7777
+[2022.02.02-16.43.18:367][  0]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 30) at 2022.02.02-19.43.18
+[2022.02.02-16.43.18:368][  0]LogWorld: Bringing up level for play took: 0.178974
+[2022.02.02-16.43.18:510][  0]LogLoad: Took 1.440038 seconds to LoadMap(/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap)
+[2022.02.02-16.43.18:530][  0]LogPakFile: AllPaks IndexSizes: DirectoryHashSize=205864, PathHashSize=16, EntriesSize=32752, TotalSize=238632
+[2022.02.02-16.43.18:530][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.02.02-16.43.18:532][  0]LogLoad: (Engine Initialization) Total time: 27.80 seconds
+[2022.02.02-16.44.20:741][847]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:61717
+[2022.02.02-16.44.20:775][847]LogHandshake: SendConnectChallenge. Timestamp: 62.152487, Cookie: 009007103125030102203160116117060180193059245121127130117224
+[2022.02.02-16.44.20:818][849]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:61717
+[2022.02.02-16.44.20:818][849]LogHandshake: SendChallengeAck. InCookie: 009007103125030102203160116117060180193059245121127130117224
+[2022.02.02-16.44.20:818][849]LogNet: Server accepting post-challenge connection from: 127.0.0.1:61717
+[2022.02.02-16.44.20:875][849]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.02.02-16.44.20:945][849]LogNet: NotifyAcceptedConnection: Name: ThirdPersonExampleMap, TimeStamp: 02/02/22 19:44:20, [UNetConnection] RemoteAddr: 127.0.0.1:61717, Name: IpConnection_2147482559, Driver: GameNetDriver IpNetDriver_2147482567, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.02.02-16.44.20:945][849]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:61717, Name: IpConnection_2147482559, Driver: GameNetDriver IpNetDriver_2147482567, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.02.02-16.44.20:952][849]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap: Accepted
+[2022.02.02-16.44.20:953][849]LogNet: Remote platform little endian=1
+[2022.02.02-16.44.20:953][849]LogNet: This platform little endian=1
+[2022.02.02-16.44.20:953][849]LogNetVersion: DedicatedServer 1.0.0.0, NetCL: 0, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1377552191)
+[2022.02.02-16.44.21:110][850]LogNet: Login request: ?Name=DESKTOP-P6G4D2C-4C1099384A89931894F406916416B5E2 userId: NULL:DESKTOP-P6G4D2C-4C1099384A89931894F406916416B5E2 platform: NULL
+[2022.02.02-16.44.21:140][850]LogNet: Client netspeed is 100000
+[2022.02.02-16.44.21:210][853]LogNet: Join request: /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap?Name=DESKTOP-P6G4D2C-4C1099384A89931894F406916416B5E2?SplitscreenCount=1
+[2022.02.02-16.44.21:281][853]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.02.02-16.44.22:243][853]LogNet: Join succeeded: DESKTOP-P6G4D2C-4C10
+[2022.02.02-16.44.42:811][472]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:65307
+[2022.02.02-16.44.42:811][472]LogHandshake: SendConnectChallenge. Timestamp: 84.223232, Cookie: 235106061165078052238243156217001186244216198059228101020069
+[2022.02.02-16.44.42:844][473]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:65307
+[2022.02.02-16.44.42:844][473]LogHandshake: SendChallengeAck. InCookie: 235106061165078052238243156217001186244216198059228101020069
+[2022.02.02-16.44.42:845][473]LogNet: Server accepting post-challenge connection from: 127.0.0.1:65307
+[2022.02.02-16.44.42:846][473]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.02.02-16.44.42:846][473]LogNet: NotifyAcceptedConnection: Name: ThirdPersonExampleMap, TimeStamp: 02/02/22 19:44:42, [UNetConnection] RemoteAddr: 127.0.0.1:65307, Name: IpConnection_2147482530, Driver: GameNetDriver IpNetDriver_2147482567, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.02.02-16.44.42:846][473]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:65307, Name: IpConnection_2147482530, Driver: GameNetDriver IpNetDriver_2147482567, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.02.02-16.44.42:878][474]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap: Accepted
+[2022.02.02-16.44.42:878][474]LogNet: Remote platform little endian=1
+[2022.02.02-16.44.42:878][474]LogNet: This platform little endian=1
+[2022.02.02-16.44.42:911][475]LogNet: Login request: ?Name=DESKTOP-P6G4D2C-71CAE8424D2C538AE6E35CB62A7A4DF8 userId: NULL:DESKTOP-P6G4D2C-71CAE8424D2C538AE6E35CB62A7A4DF8 platform: NULL
+[2022.02.02-16.44.42:945][476]LogNet: Client netspeed is 100000
+[2022.02.02-16.44.43:012][478]LogNet: Join request: /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap?Name=DESKTOP-P6G4D2C-71CAE8424D2C538AE6E35CB62A7A4DF8?SplitscreenCount=1
+[2022.02.02-16.44.43:012][478]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.02.02-16.44.43:013][478]LogNet: Join succeeded: DESKTOP-P6G4D2C-71CA
+[2022.02.02-16.44.49:419][669]LogScript: Warning: Accessed None trying to read property Notify
+	BP_Door_C /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BP_Door_2
+	Function /Game/Blueprints/BP_Door.BP_Door_C:OnRep_DoorStatus:000A
+[2022.02.02-16.44.49:420][669]LogScript: Warning: Script call stack:
+	Function /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:LineTrace
+	Function /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+	Function /Game/Blueprints/BP_Door.BP_Door_C:Interacted
+	Function /Game/Blueprints/BP_Door.BP_Door_C:ExecuteUbergraph_BP_Door
+	Function /Game/Blueprints/BP_Door.BP_Door_C:OnRep_DoorStatus
+
+[2022.02.02-16.44.53:325][786]LogScript: Warning: Accessed None trying to read property Notify
+	BP_Door_C /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BP_Door_2
+	Function /Game/Blueprints/BP_Door.BP_Door_C:OnRep_DoorStatus:000A
+[2022.02.02-16.44.53:325][786]LogScript: Warning: Script call stack:
+	Function /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:LineTrace
+	Function /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+	Function /Game/Blueprints/BP_Door.BP_Door_C:Interacted
+	Function /Game/Blueprints/BP_Door.BP_Door_C:ExecuteUbergraph_BP_Door
+	Function /Game/Blueprints/BP_Door.BP_Door_C:OnRep_DoorStatus
+
+[2022.02.02-16.44.59:659][976]LogNet: UChannel::ReceivedSequencedBunch: Bunch.bClose == true. ChIndex == 0. Calling ConditionalCleanUp.
+[2022.02.02-16.44.59:659][976]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:61717, Name: IpConnection_2147482559, Driver: GameNetDriver IpNetDriver_2147482567, IsServer: YES, PC: PlayerController_2147482555, Owner: PlayerController_2147482555, UniqueId: NULL:DESKTOP-P6G4D2C-4C1099384A89931894F406916416B5E2
+[2022.02.02-16.44.59:659][976]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:61717, Name: IpConnection_2147482559, Driver: GameNetDriver IpNetDriver_2147482567, IsServer: YES, PC: PlayerController_2147482555, Owner: PlayerController_2147482555, UniqueId: NULL:DESKTOP-P6G4D2C-4C1099384A89931894F406916416B5E2, Channels: 11, Time: 2022.02.02-16.44.59
+[2022.02.02-16.44.59:659][976]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:61717, Name: IpConnection_2147482559, Driver: GameNetDriver IpNetDriver_2147482567, IsServer: YES, PC: PlayerController_2147482555, Owner: PlayerController_2147482555, UniqueId: NULL:DESKTOP-P6G4D2C-4C1099384A89931894F406916416B5E2
+[2022.02.02-16.44.59:659][976]LogNet: UChannel::ReceivedSequencedBunch: Bunch.bClose == true. ChIndex == 0. Calling ConditionalCleanUp.
+[2022.02.02-16.44.59:660][976]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:65307, Name: IpConnection_2147482530, Driver: GameNetDriver IpNetDriver_2147482567, IsServer: YES, PC: PlayerController_2147482526, Owner: PlayerController_2147482526, UniqueId: NULL:DESKTOP-P6G4D2C-71CAE8424D2C538AE6E35CB62A7A4DF8
+[2022.02.02-16.44.59:660][976]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:65307, Name: IpConnection_2147482530, Driver: GameNetDriver IpNetDriver_2147482567, IsServer: YES, PC: PlayerController_2147482526, Owner: PlayerController_2147482526, UniqueId: NULL:DESKTOP-P6G4D2C-71CAE8424D2C538AE6E35CB62A7A4DF8, Channels: 12, Time: 2022.02.02-16.44.59
+[2022.02.02-16.44.59:660][976]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:65307, Name: IpConnection_2147482530, Driver: GameNetDriver IpNetDriver_2147482567, IsServer: YES, PC: PlayerController_2147482526, Owner: PlayerController_2147482526, UniqueId: NULL:DESKTOP-P6G4D2C-71CAE8424D2C538AE6E35CB62A7A4DF8
+[2022.02.02-16.44.59:687][976]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2022.02.02-16.44.59:687][976]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2022.02.02-16.46.05:382][950]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:54077
+[2022.02.02-16.46.05:382][950]LogHandshake: SendConnectChallenge. Timestamp: 166.793794, Cookie: 154218199109018211226017204107238087130206222140146203154240
+[2022.02.02-16.46.05:415][951]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:54077
+[2022.02.02-16.46.05:415][951]LogHandshake: SendChallengeAck. InCookie: 154218199109018211226017204107238087130206222140146203154240
+[2022.02.02-16.46.05:416][951]LogNet: Server accepting post-challenge connection from: 127.0.0.1:54077
+[2022.02.02-16.46.05:418][951]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.02.02-16.46.05:418][951]LogNet: NotifyAcceptedConnection: Name: ThirdPersonExampleMap, TimeStamp: 02/02/22 19:46:05, [UNetConnection] RemoteAddr: 127.0.0.1:54077, Name: IpConnection_2147482498, Driver: GameNetDriver IpNetDriver_2147482567, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.02.02-16.46.05:419][951]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:54077, Name: IpConnection_2147482498, Driver: GameNetDriver IpNetDriver_2147482567, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.02.02-16.46.05:449][952]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap: Accepted
+[2022.02.02-16.46.05:449][952]LogNet: Remote platform little endian=1
+[2022.02.02-16.46.05:450][952]LogNet: This platform little endian=1
+[2022.02.02-16.46.05:482][953]LogNet: Login request: ?Name=DESKTOP-P6G4D2C-DE84EEC84279CAB13A37878A4C2978DA userId: NULL:DESKTOP-P6G4D2C-DE84EEC84279CAB13A37878A4C2978DA platform: NULL
+[2022.02.02-16.46.05:515][954]LogNet: Client netspeed is 100000
+[2022.02.02-16.46.05:548][955]LogNet: Join request: /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap?Name=DESKTOP-P6G4D2C-DE84EEC84279CAB13A37878A4C2978DA?SplitscreenCount=1
+[2022.02.02-16.46.05:548][955]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.02.02-16.46.05:549][955]LogNet: Join succeeded: DESKTOP-P6G4D2C-DE84
+[2022.02.02-16.46.25:989][570]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56900
+[2022.02.02-16.46.25:989][570]LogHandshake: SendConnectChallenge. Timestamp: 187.400779, Cookie: 121188072056062245194204161001232145155144008140158098081001
+[2022.02.02-16.46.26:022][571]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56900
+[2022.02.02-16.46.26:022][571]LogHandshake: SendChallengeAck. InCookie: 121188072056062245194204161001232145155144008140158098081001
+[2022.02.02-16.46.26:023][571]LogNet: Server accepting post-challenge connection from: 127.0.0.1:56900
+[2022.02.02-16.46.26:024][571]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.02.02-16.46.26:025][571]LogNet: NotifyAcceptedConnection: Name: ThirdPersonExampleMap, TimeStamp: 02/02/22 19:46:26, [UNetConnection] RemoteAddr: 127.0.0.1:56900, Name: IpConnection_2147482471, Driver: GameNetDriver IpNetDriver_2147482567, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.02.02-16.46.26:026][571]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:56900, Name: IpConnection_2147482471, Driver: GameNetDriver IpNetDriver_2147482567, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.02.02-16.46.26:027][571]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap: Accepted
+[2022.02.02-16.46.26:027][571]LogNet: Remote platform little endian=1
+[2022.02.02-16.46.26:028][571]LogNet: This platform little endian=1
+[2022.02.02-16.46.26:056][572]LogNet: Login request: ?Name=DESKTOP-P6G4D2C-5EF7FB1542800A3012D503BEF1927039 userId: NULL:DESKTOP-P6G4D2C-5EF7FB1542800A3012D503BEF1927039 platform: NULL
+[2022.02.02-16.46.26:095][573]LogNet: Client netspeed is 100000
+[2022.02.02-16.46.26:162][575]LogNet: Join request: /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap?Name=DESKTOP-P6G4D2C-5EF7FB1542800A3012D503BEF1927039?SplitscreenCount=1
+[2022.02.02-16.46.26:162][575]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.02.02-16.46.26:163][575]LogNet: Join succeeded: DESKTOP-P6G4D2C-5EF7
+[2022.02.02-16.46.35:859][866]LogScript: Warning: Accessed None trying to read property Notify
+	BP_Door_C /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BP_Door_2
+	Function /Game/Blueprints/BP_Door.BP_Door_C:OnRep_DoorStatus:000A
+[2022.02.02-16.46.35:860][866]LogScript: Warning: Script call stack:
+	Function /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:LineTrace
+	Function /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+	Function /Game/Blueprints/BP_Door.BP_Door_C:Interacted
+	Function /Game/Blueprints/BP_Door.BP_Door_C:ExecuteUbergraph_BP_Door
+	Function /Game/Blueprints/BP_Door.BP_Door_C:OnRep_DoorStatus
+
+[2022.02.02-16.46.39:159][965]LogScript: Warning: Accessed None trying to read property Notify
+	BP_Door_C /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BP_Door_2
+	Function /Game/Blueprints/BP_Door.BP_Door_C:OnRep_DoorStatus:000A
+[2022.02.02-16.46.39:159][965]LogScript: Warning: Script call stack:
+	Function /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:LineTrace
+	Function /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+	Function /Game/Blueprints/BP_Door.BP_Door_C:Interacted
+	Function /Game/Blueprints/BP_Door.BP_Door_C:ExecuteUbergraph_BP_Door
+	Function /Game/Blueprints/BP_Door.BP_Door_C:OnRep_DoorStatus
+
+[2022.02.02-20.39.20:858][884]LogScript: Warning: Accessed None trying to read property Notify
+	BP_Door_C /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BP_Door_2
+	Function /Game/Blueprints/BP_Door.BP_Door_C:OnRep_DoorStatus:000A
+[2022.02.02-20.39.20:861][884]LogScript: Warning: Script call stack:
+	Function /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:LineTrace
+	Function /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+	Function /Game/Blueprints/BP_Door.BP_Door_C:Interacted
+	Function /Game/Blueprints/BP_Door.BP_Door_C:ExecuteUbergraph_BP_Door
+	Function /Game/Blueprints/BP_Door.BP_Door_C:OnRep_DoorStatus
+
+[2022.02.02-20.39.23:222][955]LogScript: Warning: Accessed None trying to read property Notify
+	BP_Door_C /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BP_Door_2
+	Function /Game/Blueprints/BP_Door.BP_Door_C:OnRep_DoorStatus:000A
+[2022.02.02-20.39.23:223][955]LogScript: Warning: Script call stack:
+	Function /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:LineTrace
+	Function /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+	Function /Game/Blueprints/BP_Door.BP_Door_C:Interacted
+	Function /Game/Blueprints/BP_Door.BP_Door_C:ExecuteUbergraph_BP_Door
+	Function /Game/Blueprints/BP_Door.BP_Door_C:OnRep_DoorStatus
+
+[2022.02.02-20.39.24:753][  1]LogScript: Warning: Accessed None trying to read property Notify
+	BP_Door_C /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BP_Door_2
+	Function /Game/Blueprints/BP_Door.BP_Door_C:OnRep_DoorStatus:000A
+[2022.02.02-20.39.24:755][  1]LogScript: Warning: Script call stack:
+	Function /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:LineTrace
+	Function /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+	Function /Game/Blueprints/BP_Door.BP_Door_C:Interacted
+	Function /Game/Blueprints/BP_Door.BP_Door_C:ExecuteUbergraph_BP_Door
+	Function /Game/Blueprints/BP_Door.BP_Door_C:OnRep_DoorStatus
+
+[2022.02.02-20.39.26:090][ 41]LogScript: Warning: Accessed None trying to read property Notify
+	BP_Door_C /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BP_Door_2
+	Function /Game/Blueprints/BP_Door.BP_Door_C:OnRep_DoorStatus:000A
+[2022.02.02-20.39.26:092][ 41]LogScript: Warning: Script call stack:
+	Function /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:LineTrace
+	Function /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+	Function /Game/Blueprints/BP_Door.BP_Door_C:Interacted
+	Function /Game/Blueprints/BP_Door.BP_Door_C:ExecuteUbergraph_BP_Door
+	Function /Game/Blueprints/BP_Door.BP_Door_C:OnRep_DoorStatus
+
+[2022.02.02-20.39.38:490][413]LogScript: Warning: Accessed None trying to read property Notify
+	BP_Door_C /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BP_Door_2
+	Function /Game/Blueprints/BP_Door.BP_Door_C:OnRep_DoorStatus:000A
+[2022.02.02-20.39.38:492][413]LogScript: Warning: Script call stack:
+	Function /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:LineTrace
+	Function /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+	Function /Game/Blueprints/BP_Door.BP_Door_C:Interacted
+	Function /Game/Blueprints/BP_Door.BP_Door_C:ExecuteUbergraph_BP_Door
+	Function /Game/Blueprints/BP_Door.BP_Door_C:OnRep_DoorStatus
+
+[2022.02.02-20.39.40:559][475]LogNet: UChannel::ReceivedSequencedBunch: Bunch.bClose == true. ChIndex == 0. Calling ConditionalCleanUp.
+[2022.02.02-20.39.40:559][475]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:54077, Name: IpConnection_2147482498, Driver: GameNetDriver IpNetDriver_2147482567, IsServer: YES, PC: PlayerController_2147482494, Owner: PlayerController_2147482494, UniqueId: NULL:DESKTOP-P6G4D2C-DE84EEC84279CAB13A37878A4C2978DA
+[2022.02.02-20.39.40:562][475]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:54077, Name: IpConnection_2147482498, Driver: GameNetDriver IpNetDriver_2147482567, IsServer: YES, PC: PlayerController_2147482494, Owner: PlayerController_2147482494, UniqueId: NULL:DESKTOP-P6G4D2C-DE84EEC84279CAB13A37878A4C2978DA, Channels: 11, Time: 2022.02.02-20.39.40
+[2022.02.02-20.39.40:563][475]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:54077, Name: IpConnection_2147482498, Driver: GameNetDriver IpNetDriver_2147482567, IsServer: YES, PC: PlayerController_2147482494, Owner: PlayerController_2147482494, UniqueId: NULL:DESKTOP-P6G4D2C-DE84EEC84279CAB13A37878A4C2978DA
+[2022.02.02-20.39.40:566][475]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2022.02.02-20.39.40:597][476]LogNet: UChannel::ReceivedSequencedBunch: Bunch.bClose == true. ChIndex == 0. Calling ConditionalCleanUp.
+[2022.02.02-20.39.40:598][476]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:56900, Name: IpConnection_2147482471, Driver: GameNetDriver IpNetDriver_2147482567, IsServer: YES, PC: PlayerController_2147482467, Owner: PlayerController_2147482467, UniqueId: NULL:DESKTOP-P6G4D2C-5EF7FB1542800A3012D503BEF1927039
+[2022.02.02-20.39.40:599][476]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:56900, Name: IpConnection_2147482471, Driver: GameNetDriver IpNetDriver_2147482567, IsServer: YES, PC: PlayerController_2147482467, Owner: PlayerController_2147482467, UniqueId: NULL:DESKTOP-P6G4D2C-5EF7FB1542800A3012D503BEF1927039, Channels: 12, Time: 2022.02.02-20.39.40
+[2022.02.02-20.39.40:601][476]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:56900, Name: IpConnection_2147482471, Driver: GameNetDriver IpNetDriver_2147482567, IsServer: YES, PC: PlayerController_2147482467, Owner: PlayerController_2147482467, UniqueId: NULL:DESKTOP-P6G4D2C-5EF7FB1542800A3012D503BEF1927039
+[2022.02.02-20.39.40:602][476]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2022.02.02-21.46.38:364][556]LogNet: UNetDriver::TickDispatch: Very long time between ticks. DeltaTime: 6.75, Realtime: 2056.55. IpNetDriver_2147482567
+[2022.02.02-21.46.38:609][557]LogNet: UNetDriver::TickDispatch: Very long time between ticks. DeltaTime: 2051.91, Realtime: 2.11. IpNetDriver_2147482567
+[2022.02.02-21.52.30:298][ 62]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:49776
+[2022.02.02-21.52.30:369][ 62]LogHandshake: SendConnectChallenge. Timestamp: 18558.276339, Cookie: 108174162124096242237090169128178011237218046034022149171086
+[2022.02.02-21.52.30:382][ 62]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:49777
+[2022.02.02-21.52.30:383][ 62]LogHandshake: SendConnectChallenge. Timestamp: 18558.276339, Cookie: 237161160013180245079238224226250177232142034192105174172210
+[2022.02.02-21.52.30:418][ 64]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:49776
+[2022.02.02-21.52.30:418][ 64]LogHandshake: SendChallengeAck. InCookie: 108174162124096242237090169128178011237218046034022149171086
+[2022.02.02-21.52.30:430][ 64]LogNet: Server accepting post-challenge connection from: 127.0.0.1:49776
+[2022.02.02-21.52.30:566][ 64]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.02.02-21.52.30:641][ 64]LogNet: NotifyAcceptedConnection: Name: ThirdPersonExampleMap, TimeStamp: 02/03/22 00:52:30, [UNetConnection] RemoteAddr: 127.0.0.1:49776, Name: IpConnection_2147482439, Driver: GameNetDriver IpNetDriver_2147482567, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.02.02-21.52.30:641][ 64]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:49776, Name: IpConnection_2147482439, Driver: GameNetDriver IpNetDriver_2147482567, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.02.02-21.52.30:644][ 64]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:49777
+[2022.02.02-21.52.30:644][ 64]LogHandshake: SendChallengeAck. InCookie: 237161160013180245079238224226250177232142034192105174172210
+[2022.02.02-21.52.30:645][ 64]LogNet: Server accepting post-challenge connection from: 127.0.0.1:49777
+[2022.02.02-21.52.30:646][ 64]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.02.02-21.52.30:646][ 64]LogNet: NotifyAcceptedConnection: Name: ThirdPersonExampleMap, TimeStamp: 02/03/22 00:52:30, [UNetConnection] RemoteAddr: 127.0.0.1:49777, Name: IpConnection_2147482436, Driver: GameNetDriver IpNetDriver_2147482567, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.02.02-21.52.30:647][ 64]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:49777, Name: IpConnection_2147482436, Driver: GameNetDriver IpNetDriver_2147482567, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.02.02-21.52.30:672][ 64]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap: Accepted
+[2022.02.02-21.52.30:684][ 64]LogNet: Remote platform little endian=1
+[2022.02.02-21.52.30:684][ 64]LogNet: This platform little endian=1
+[2022.02.02-21.52.30:690][ 64]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap: Accepted
+[2022.02.02-21.52.30:691][ 64]LogNet: Remote platform little endian=1
+[2022.02.02-21.52.30:691][ 64]LogNet: This platform little endian=1
+[2022.02.02-21.52.30:743][ 66]LogNet: Login request: ?Name=DESKTOP-P6G4D2C-FC3593DB4CED6F1B78DA0A923B7C139A userId: NULL:DESKTOP-P6G4D2C-FC3593DB4CED6F1B78DA0A923B7C139A platform: NULL
+[2022.02.02-21.52.30:801][ 66]LogNet: Login request: ?Name=DESKTOP-P6G4D2C-B7642643411239B4EC86D0B10597252F userId: NULL:DESKTOP-P6G4D2C-B7642643411239B4EC86D0B10597252F platform: NULL
+[2022.02.02-21.52.30:801][ 66]LogNet: Client netspeed is 100000
+[2022.02.02-21.52.31:861][ 97]LogNet: Join request: /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap?Name=DESKTOP-P6G4D2C-FC3593DB4CED6F1B78DA0A923B7C139A?SplitscreenCount=1
+[2022.02.02-21.52.32:142][ 97]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.02.02-21.52.33:012][ 97]LogNet: Join succeeded: DESKTOP-P6G4D2C-FC35
+[2022.02.02-21.52.33:012][ 97]LogNet: Client netspeed is 100000
+[2022.02.02-21.52.33:013][ 97]LogNet: Join request: /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap?Name=DESKTOP-P6G4D2C-B7642643411239B4EC86D0B10597252F?SplitscreenCount=1
+[2022.02.02-21.52.33:014][ 97]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.02.02-21.52.33:015][ 97]LogNet: Join succeeded: DESKTOP-P6G4D2C-B764
+[2022.02.02-21.52.36:891][212]LogNet: UChannel::ReceivedSequencedBunch: Bunch.bClose == true. ChIndex == 0. Calling ConditionalCleanUp.
+[2022.02.02-21.52.36:891][212]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:49777, Name: IpConnection_2147482436, Driver: GameNetDriver IpNetDriver_2147482567, IsServer: YES, PC: PlayerController_2147482416, Owner: PlayerController_2147482416, UniqueId: NULL:DESKTOP-P6G4D2C-B7642643411239B4EC86D0B10597252F
+[2022.02.02-21.52.36:892][212]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:49777, Name: IpConnection_2147482436, Driver: GameNetDriver IpNetDriver_2147482567, IsServer: YES, PC: PlayerController_2147482416, Owner: PlayerController_2147482416, UniqueId: NULL:DESKTOP-P6G4D2C-B7642643411239B4EC86D0B10597252F, Channels: 12, Time: 2022.02.02-21.52.36
+[2022.02.02-21.52.36:892][212]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:49777, Name: IpConnection_2147482436, Driver: GameNetDriver IpNetDriver_2147482567, IsServer: YES, PC: PlayerController_2147482416, Owner: PlayerController_2147482416, UniqueId: NULL:DESKTOP-P6G4D2C-B7642643411239B4EC86D0B10597252F
+[2022.02.02-21.52.36:893][212]LogNet: UChannel::ReceivedSequencedBunch: Bunch.bClose == true. ChIndex == 0. Calling ConditionalCleanUp.
+[2022.02.02-21.52.36:893][212]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:49776, Name: IpConnection_2147482439, Driver: GameNetDriver IpNetDriver_2147482567, IsServer: YES, PC: PlayerController_2147482431, Owner: PlayerController_2147482431, UniqueId: NULL:DESKTOP-P6G4D2C-FC3593DB4CED6F1B78DA0A923B7C139A
+[2022.02.02-21.52.36:893][212]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:49776, Name: IpConnection_2147482439, Driver: GameNetDriver IpNetDriver_2147482567, IsServer: YES, PC: PlayerController_2147482431, Owner: PlayerController_2147482431, UniqueId: NULL:DESKTOP-P6G4D2C-FC3593DB4CED6F1B78DA0A923B7C139A, Channels: 12, Time: 2022.02.02-21.52.36
+[2022.02.02-21.52.36:893][212]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:49776, Name: IpConnection_2147482439, Driver: GameNetDriver IpNetDriver_2147482567, IsServer: YES, PC: PlayerController_2147482431, Owner: PlayerController_2147482431, UniqueId: NULL:DESKTOP-P6G4D2C-FC3593DB4CED6F1B78DA0A923B7C139A
+[2022.02.02-21.52.36:985][212]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2022.02.02-21.52.36:988][212]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2022.02.02-21.56.02:098][409]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63091
+[2022.02.02-21.56.02:098][409]LogHandshake: SendConnectChallenge. Timestamp: 18770.125025, Cookie: 250216025227215141225167013061048189210200022241225111122113
+[2022.02.02-21.56.02:100][409]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63092
+[2022.02.02-21.56.02:103][409]LogHandshake: SendConnectChallenge. Timestamp: 18770.125025, Cookie: 175247150247031032205026092048180030151115006248062221137111
+[2022.02.02-21.56.02:132][410]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63091
+[2022.02.02-21.56.02:132][410]LogHandshake: SendChallengeAck. InCookie: 250216025227215141225167013061048189210200022241225111122113
+[2022.02.02-21.56.02:133][410]LogNet: Server accepting post-challenge connection from: 127.0.0.1:63091
+[2022.02.02-21.56.02:134][410]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.02.02-21.56.02:135][410]LogNet: NotifyAcceptedConnection: Name: ThirdPersonExampleMap, TimeStamp: 02/03/22 00:56:02, [UNetConnection] RemoteAddr: 127.0.0.1:63091, Name: IpConnection_2147482380, Driver: GameNetDriver IpNetDriver_2147482567, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.02.02-21.56.02:135][410]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:63091, Name: IpConnection_2147482380, Driver: GameNetDriver IpNetDriver_2147482567, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.02.02-21.56.02:136][410]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63092
+[2022.02.02-21.56.02:136][410]LogHandshake: SendChallengeAck. InCookie: 175247150247031032205026092048180030151115006248062221137111
+[2022.02.02-21.56.02:136][410]LogNet: Server accepting post-challenge connection from: 127.0.0.1:63092
+[2022.02.02-21.56.02:137][410]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.02.02-21.56.02:137][410]LogNet: NotifyAcceptedConnection: Name: ThirdPersonExampleMap, TimeStamp: 02/03/22 00:56:02, [UNetConnection] RemoteAddr: 127.0.0.1:63092, Name: IpConnection_2147482377, Driver: GameNetDriver IpNetDriver_2147482567, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.02.02-21.56.02:138][410]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:63092, Name: IpConnection_2147482377, Driver: GameNetDriver IpNetDriver_2147482567, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.02.02-21.56.02:166][411]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap: Accepted
+[2022.02.02-21.56.02:166][411]LogNet: Remote platform little endian=1
+[2022.02.02-21.56.02:167][411]LogNet: This platform little endian=1
+[2022.02.02-21.56.02:168][411]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap: Accepted
+[2022.02.02-21.56.02:169][411]LogNet: Remote platform little endian=1
+[2022.02.02-21.56.02:169][411]LogNet: This platform little endian=1
+[2022.02.02-21.56.02:199][412]LogNet: Login request: ?Name=DESKTOP-P6G4D2C-BB3E8E8A4CAF1624F37B76A823043BED userId: NULL:DESKTOP-P6G4D2C-BB3E8E8A4CAF1624F37B76A823043BED platform: NULL
+[2022.02.02-21.56.02:199][412]LogNet: Login request: ?Name=DESKTOP-P6G4D2C-9D700C554F2F449BC09F5AA258EE69CF userId: NULL:DESKTOP-P6G4D2C-9D700C554F2F449BC09F5AA258EE69CF platform: NULL
+[2022.02.02-21.56.02:233][413]LogNet: Client netspeed is 100000
+[2022.02.02-21.56.02:266][414]LogNet: Join request: /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap?Name=DESKTOP-P6G4D2C-BB3E8E8A4CAF1624F37B76A823043BED?SplitscreenCount=1
+[2022.02.02-21.56.02:266][414]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.02.02-21.56.02:268][414]LogNet: Join succeeded: DESKTOP-P6G4D2C-BB3E
+[2022.02.02-21.56.02:268][414]LogNet: Client netspeed is 100000
+[2022.02.02-21.56.02:333][416]LogNet: Join request: /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap?Name=DESKTOP-P6G4D2C-9D700C554F2F449BC09F5AA258EE69CF?SplitscreenCount=1
+[2022.02.02-21.56.02:333][416]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.02.02-21.56.02:335][416]LogNet: Join succeeded: DESKTOP-P6G4D2C-9D70
+[2022.02.02-21.56.44:474][682]LogNet: UChannel::ReceivedSequencedBunch: Bunch.bClose == true. ChIndex == 0. Calling ConditionalCleanUp.
+[2022.02.02-21.56.44:474][682]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:63092, Name: IpConnection_2147482377, Driver: GameNetDriver IpNetDriver_2147482567, IsServer: YES, PC: PlayerController_2147482350, Owner: PlayerController_2147482350, UniqueId: NULL:DESKTOP-P6G4D2C-9D700C554F2F449BC09F5AA258EE69CF
+[2022.02.02-21.56.44:475][682]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:63092, Name: IpConnection_2147482377, Driver: GameNetDriver IpNetDriver_2147482567, IsServer: YES, PC: PlayerController_2147482350, Owner: PlayerController_2147482350, UniqueId: NULL:DESKTOP-P6G4D2C-9D700C554F2F449BC09F5AA258EE69CF, Channels: 12, Time: 2022.02.02-21.56.44
+[2022.02.02-21.56.44:475][682]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:63092, Name: IpConnection_2147482377, Driver: GameNetDriver IpNetDriver_2147482567, IsServer: YES, PC: PlayerController_2147482350, Owner: PlayerController_2147482350, UniqueId: NULL:DESKTOP-P6G4D2C-9D700C554F2F449BC09F5AA258EE69CF
+[2022.02.02-21.56.44:476][682]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2022.02.02-21.56.45:601][716]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:60787
+[2022.02.02-21.56.45:601][716]LogHandshake: SendConnectChallenge. Timestamp: 18813.627806, Cookie: 187159180086117233140019211168221100039117013108140162123104
+[2022.02.02-21.56.45:635][717]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:60787
+[2022.02.02-21.56.45:635][717]LogHandshake: SendChallengeAck. InCookie: 187159180086117233140019211168221100039117013108140162123104
+[2022.02.02-21.56.45:637][717]LogNet: Server accepting post-challenge connection from: 127.0.0.1:60787
+[2022.02.02-21.56.45:639][717]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.02.02-21.56.45:639][717]LogNet: NotifyAcceptedConnection: Name: ThirdPersonExampleMap, TimeStamp: 02/03/22 00:56:45, [UNetConnection] RemoteAddr: 127.0.0.1:60787, Name: IpConnection_2147482320, Driver: GameNetDriver IpNetDriver_2147482567, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.02.02-21.56.45:640][717]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:60787, Name: IpConnection_2147482320, Driver: GameNetDriver IpNetDriver_2147482567, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.02.02-21.56.45:668][718]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap: Accepted
+[2022.02.02-21.56.45:668][718]LogNet: Remote platform little endian=1
+[2022.02.02-21.56.45:670][718]LogNet: This platform little endian=1
+[2022.02.02-21.56.45:701][719]LogNet: Login request: ?Name=DESKTOP-P6G4D2C-9D700C554F2F449BC09F5AA258EE69CF userId: NULL:DESKTOP-P6G4D2C-9D700C554F2F449BC09F5AA258EE69CF platform: NULL
+[2022.02.02-21.56.45:735][720]LogNet: Client netspeed is 100000
+[2022.02.02-21.56.45:801][722]LogNet: Join request: /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap?Name=DESKTOP-P6G4D2C-9D700C554F2F449BC09F5AA258EE69CF?SplitscreenCount=1
+[2022.02.02-21.56.45:801][722]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.02.02-21.56.45:803][722]LogNet: Join succeeded: DESKTOP-P6G4D2C-9D70
+[2022.02.02-21.56.59:884][145]LogNet: UChannel::ReceivedSequencedBunch: Bunch.bClose == true. ChIndex == 0. Calling ConditionalCleanUp.
+[2022.02.02-21.56.59:892][145]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:60787, Name: IpConnection_2147482320, Driver: GameNetDriver IpNetDriver_2147482567, IsServer: YES, PC: PlayerController_2147482316, Owner: PlayerController_2147482316, UniqueId: NULL:DESKTOP-P6G4D2C-9D700C554F2F449BC09F5AA258EE69CF
+[2022.02.02-21.56.59:892][145]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:60787, Name: IpConnection_2147482320, Driver: GameNetDriver IpNetDriver_2147482567, IsServer: YES, PC: PlayerController_2147482316, Owner: PlayerController_2147482316, UniqueId: NULL:DESKTOP-P6G4D2C-9D700C554F2F449BC09F5AA258EE69CF, Channels: 12, Time: 2022.02.02-21.56.59
+[2022.02.02-21.56.59:893][145]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:60787, Name: IpConnection_2147482320, Driver: GameNetDriver IpNetDriver_2147482567, IsServer: YES, PC: PlayerController_2147482316, Owner: PlayerController_2147482316, UniqueId: NULL:DESKTOP-P6G4D2C-9D700C554F2F449BC09F5AA258EE69CF
+[2022.02.02-21.56.59:894][145]LogNet: UChannel::ReceivedSequencedBunch: Bunch.bClose == true. ChIndex == 0. Calling ConditionalCleanUp.
+[2022.02.02-21.56.59:894][145]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:63091, Name: IpConnection_2147482380, Driver: GameNetDriver IpNetDriver_2147482567, IsServer: YES, PC: PlayerController_2147482372, Owner: PlayerController_2147482372, UniqueId: NULL:DESKTOP-P6G4D2C-BB3E8E8A4CAF1624F37B76A823043BED
+[2022.02.02-21.56.59:895][145]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:63091, Name: IpConnection_2147482380, Driver: GameNetDriver IpNetDriver_2147482567, IsServer: YES, PC: PlayerController_2147482372, Owner: PlayerController_2147482372, UniqueId: NULL:DESKTOP-P6G4D2C-BB3E8E8A4CAF1624F37B76A823043BED, Channels: 12, Time: 2022.02.02-21.56.59
+[2022.02.02-21.56.59:896][145]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:63091, Name: IpConnection_2147482380, Driver: GameNetDriver IpNetDriver_2147482567, IsServer: YES, PC: PlayerController_2147482372, Owner: PlayerController_2147482372, UniqueId: NULL:DESKTOP-P6G4D2C-BB3E8E8A4CAF1624F37B76A823043BED
+[2022.02.02-21.56.59:897][145]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2022.02.02-21.56.59:898][145]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2022.02.02-21.57.53:173][744]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:55891
+[2022.02.02-21.57.53:173][744]LogHandshake: SendConnectChallenge. Timestamp: 18881.199489, Cookie: 032204159245153079166027021029060208197051125016235093056167
+[2022.02.02-21.57.53:207][745]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:55891
+[2022.02.02-21.57.53:207][745]LogHandshake: SendChallengeAck. InCookie: 032204159245153079166027021029060208197051125016235093056167
+[2022.02.02-21.57.53:207][745]LogNet: Server accepting post-challenge connection from: 127.0.0.1:55891
+[2022.02.02-21.57.53:208][745]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.02.02-21.57.53:208][745]LogNet: NotifyAcceptedConnection: Name: ThirdPersonExampleMap, TimeStamp: 02/03/22 00:57:53, [UNetConnection] RemoteAddr: 127.0.0.1:55891, Name: IpConnection_2147482290, Driver: GameNetDriver IpNetDriver_2147482567, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.02.02-21.57.53:208][745]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:55891, Name: IpConnection_2147482290, Driver: GameNetDriver IpNetDriver_2147482567, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.02.02-21.57.53:240][746]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap: Accepted
+[2022.02.02-21.57.53:240][746]LogNet: Remote platform little endian=1
+[2022.02.02-21.57.53:242][746]LogNet: This platform little endian=1
+[2022.02.02-21.57.53:273][747]LogNet: Login request: ?Name=DESKTOP-P6G4D2C-0DA4C7AB4DC9CEAED9C8D1B15EF763C8 userId: NULL:DESKTOP-P6G4D2C-0DA4C7AB4DC9CEAED9C8D1B15EF763C8 platform: NULL
+[2022.02.02-21.57.53:306][748]LogNet: Client netspeed is 100000
+[2022.02.02-21.57.53:372][750]LogNet: Join request: /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap?Name=DESKTOP-P6G4D2C-0DA4C7AB4DC9CEAED9C8D1B15EF763C8?SplitscreenCount=1
+[2022.02.02-21.57.53:372][750]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.02.02-21.57.53:374][750]LogNet: Join succeeded: DESKTOP-P6G4D2C-0DA4
+[2022.02.02-21.58.20:576][570]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:64275
+[2022.02.02-21.58.20:576][570]LogHandshake: SendConnectChallenge. Timestamp: 18908.602776, Cookie: 071119095070027093112128106152067004237249017243041126163170
+[2022.02.02-21.58.20:610][571]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:64275
+[2022.02.02-21.58.20:610][571]LogHandshake: SendChallengeAck. InCookie: 071119095070027093112128106152067004237249017243041126163170
+[2022.02.02-21.58.20:610][571]LogNet: Server accepting post-challenge connection from: 127.0.0.1:64275
+[2022.02.02-21.58.20:611][571]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.02.02-21.58.20:611][571]LogNet: NotifyAcceptedConnection: Name: ThirdPersonExampleMap, TimeStamp: 02/03/22 00:58:20, [UNetConnection] RemoteAddr: 127.0.0.1:64275, Name: IpConnection_2147482262, Driver: GameNetDriver IpNetDriver_2147482567, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.02.02-21.58.20:611][571]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:64275, Name: IpConnection_2147482262, Driver: GameNetDriver IpNetDriver_2147482567, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.02.02-21.58.20:643][572]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap: Accepted
+[2022.02.02-21.58.20:643][572]LogNet: Remote platform little endian=1
+[2022.02.02-21.58.20:644][572]LogNet: This platform little endian=1
+[2022.02.02-21.58.20:676][573]LogNet: Login request: ?Name=DESKTOP-P6G4D2C-426C134F4EC5CF4AF19FCCB2441F4FBD userId: NULL:DESKTOP-P6G4D2C-426C134F4EC5CF4AF19FCCB2441F4FBD platform: NULL
+[2022.02.02-21.58.20:709][574]LogNet: Client netspeed is 100000
+[2022.02.02-21.58.20:742][575]LogNet: Join request: /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap?Name=DESKTOP-P6G4D2C-426C134F4EC5CF4AF19FCCB2441F4FBD?SplitscreenCount=1
+[2022.02.02-21.58.20:742][575]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.02.02-21.58.20:744][575]LogNet: Join succeeded: DESKTOP-P6G4D2C-426C
+[2022.02.02-21.58.28:417][804]LogScript: Warning: Accessed None trying to read property Notify
+	BP_Door_C /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BP_Door_2
+	Function /Game/Blueprints/BP_Door.BP_Door_C:OnRep_DoorStatus:000A
+[2022.02.02-21.58.28:419][804]LogScript: Warning: Script call stack:
+	Function /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:LineTrace
+	Function /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+	Function /Game/Blueprints/BP_Door.BP_Door_C:Interacted
+	Function /Game/Blueprints/BP_Door.BP_Door_C:ExecuteUbergraph_BP_Door
+	Function /Game/Blueprints/BP_Door.BP_Door_C:OnRep_DoorStatus
+
+[2022.02.02-21.58.43:366][253]LogScript: Warning: Accessed None trying to read property Notify
+	BP_Door_C /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BP_Door_2
+	Function /Game/Blueprints/BP_Door.BP_Door_C:OnRep_DoorStatus:000A
+[2022.02.02-21.58.43:369][253]LogScript: Warning: Script call stack:
+	Function /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:LineTrace
+	Function /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+	Function /Game/Blueprints/BP_Door.BP_Door_C:Interacted
+	Function /Game/Blueprints/BP_Door.BP_Door_C:ExecuteUbergraph_BP_Door
+	Function /Game/Blueprints/BP_Door.BP_Door_C:OnRep_DoorStatus
+
+[2022.02.02-21.59.30:336][666]LogScript: Warning: Accessed None trying to read property Notify
+	BP_Door_C /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BP_Door_2
+	Function /Game/Blueprints/BP_Door.BP_Door_C:OnRep_DoorStatus:000A
+[2022.02.02-21.59.30:338][666]LogScript: Warning: Script call stack:
+	Function /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:LineTrace
+	Function /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+	Function /Game/Blueprints/BP_Door.BP_Door_C:Interacted
+	Function /Game/Blueprints/BP_Door.BP_Door_C:ExecuteUbergraph_BP_Door
+	Function /Game/Blueprints/BP_Door.BP_Door_C:OnRep_DoorStatus
+
+[2022.02.02-22.00.20:240][165]LogScript: Warning: Accessed None trying to read property Notify
+	BP_Door_C /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BP_Door_2
+	Function /Game/Blueprints/BP_Door.BP_Door_C:OnRep_DoorStatus:000A
+[2022.02.02-22.00.20:241][165]LogScript: Warning: Script call stack:
+	Function /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:LineTrace
+	Function /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+	Function /Game/Blueprints/BP_Door.BP_Door_C:Interacted
+	Function /Game/Blueprints/BP_Door.BP_Door_C:ExecuteUbergraph_BP_Door
+	Function /Game/Blueprints/BP_Door.BP_Door_C:OnRep_DoorStatus
+
+[2022.02.02-22.00.35:692][630]LogNet: UChannel::ReceivedSequencedBunch: Bunch.bClose == true. ChIndex == 0. Calling ConditionalCleanUp.
+[2022.02.02-22.00.35:692][630]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:55891, Name: IpConnection_2147482290, Driver: GameNetDriver IpNetDriver_2147482567, IsServer: YES, PC: PlayerController_2147482286, Owner: PlayerController_2147482286, UniqueId: NULL:DESKTOP-P6G4D2C-0DA4C7AB4DC9CEAED9C8D1B15EF763C8
+[2022.02.02-22.00.35:693][630]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:55891, Name: IpConnection_2147482290, Driver: GameNetDriver IpNetDriver_2147482567, IsServer: YES, PC: PlayerController_2147482286, Owner: PlayerController_2147482286, UniqueId: NULL:DESKTOP-P6G4D2C-0DA4C7AB4DC9CEAED9C8D1B15EF763C8, Channels: 12, Time: 2022.02.02-22.00.35
+[2022.02.02-22.00.35:694][630]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:55891, Name: IpConnection_2147482290, Driver: GameNetDriver IpNetDriver_2147482567, IsServer: YES, PC: PlayerController_2147482286, Owner: PlayerController_2147482286, UniqueId: NULL:DESKTOP-P6G4D2C-0DA4C7AB4DC9CEAED9C8D1B15EF763C8
+[2022.02.02-22.00.35:694][630]LogNet: UChannel::ReceivedSequencedBunch: Bunch.bClose == true. ChIndex == 0. Calling ConditionalCleanUp.
+[2022.02.02-22.00.35:694][630]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:64275, Name: IpConnection_2147482262, Driver: GameNetDriver IpNetDriver_2147482567, IsServer: YES, PC: PlayerController_2147482258, Owner: PlayerController_2147482258, UniqueId: NULL:DESKTOP-P6G4D2C-426C134F4EC5CF4AF19FCCB2441F4FBD
+[2022.02.02-22.00.35:695][630]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:64275, Name: IpConnection_2147482262, Driver: GameNetDriver IpNetDriver_2147482567, IsServer: YES, PC: PlayerController_2147482258, Owner: PlayerController_2147482258, UniqueId: NULL:DESKTOP-P6G4D2C-426C134F4EC5CF4AF19FCCB2441F4FBD, Channels: 11, Time: 2022.02.02-22.00.35
+[2022.02.02-22.00.35:695][630]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:64275, Name: IpConnection_2147482262, Driver: GameNetDriver IpNetDriver_2147482567, IsServer: YES, PC: PlayerController_2147482258, Owner: PlayerController_2147482258, UniqueId: NULL:DESKTOP-P6G4D2C-426C134F4EC5CF4AF19FCCB2441F4FBD
+[2022.02.02-22.00.35:696][630]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2022.02.02-22.00.35:697][630]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
